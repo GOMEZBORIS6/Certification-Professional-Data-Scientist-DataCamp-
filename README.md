@@ -35,7 +35,7 @@ This is an example of how a recipe may appear on the website, we haven’t inclu
 
 ## Data Information
 
-The product manager has tried to make this easier for us and provided data for each recipe, as well as whether there was high traffic when the recipe was featured on the home page. As you will see, they haven’t given us all of the information they have about each recipe. You can find the data [here](./Presentation%20and%20Worlbook/recipe_site_traffic_2212.csv). I will let you decide how to process it, just make sure you include all your decisions in your report. Don’t forget to double check the data really does match what they say - it might not.
+The product manager has tried to make this easier for us and provided data for each recipe, as well as whether there was high traffic when the recipe was featured on the home page. As you will see, they haven’t given us all of the information they have about each recipe. You can find the data [here](./Presentation%20and%20Workbook/recipe_site_traffic_2212.csv). I will let you decide how to process it, just make sure you include all your decisions in your report. Don’t forget to double check the data really does match what they say - it might not.
 
 ### *Dataset Description*
 
